@@ -5,6 +5,6 @@ Most of these Programes are written by me , while some are given by the faculty 
 I Personally Executed them and verified the OUTPUT.
 In case there are any mistakes ping me :)
 
-Telegram Id : suckingblackhole
+Discord : iam-v0id#8292
 
 btw my name is SUHAAS....
