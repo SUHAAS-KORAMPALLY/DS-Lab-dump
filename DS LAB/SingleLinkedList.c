@@ -53,10 +53,11 @@ void traverse()
         struct node *temp = root;
         do
         {
-            printf("%d\n", temp->data);
+            printf("%d --> ", temp->data);
             temp = temp->link;
         } while (temp != NULL);
     }
+    printf("NULL\n");
 }
 
 void del()
